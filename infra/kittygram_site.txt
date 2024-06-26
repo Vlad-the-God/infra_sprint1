@@ -1,0 +1,5 @@
+IP: 158.160.11.180;
+name_taski: https://taski.myftp.org/;
+name_kittygram: https://ypstudy.site/;
+login: admin;
+password: admin;
